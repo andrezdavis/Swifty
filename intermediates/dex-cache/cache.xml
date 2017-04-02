@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_5b9cf352e650a8a8ca10e587d86be23d16ddb86c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_6f1ad8f40eece3e54320859af4be0a9895d893c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_32647a1e39ad46c6122793be48919d746b4dc95b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_6bb24e030937ef7bb10d75f1ce128796e542bffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.1_93c9edd5705423a6fd83715b613ca8386ab43405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_1940678f5ba67b9d4a8a0c64f78bd96cc17bfb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_fcfbe348cfba48053929f80932a916641712feaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_862526705317e354f0d498e7e8eef67b7ffb5151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4bd2c0ec917476c375a7d3526c80d3ddf3cc3abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.1_ce919acc2b18cfb446f64a7c591f150db30bfa52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_917cdad0441ac1a90776908586d202974e9f9efa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39cc79f80da63955b794f2150fc621961b8e27fa">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_230102ae05de5b4f4de7dc3f20ceff181d1bfb8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_02b202df417fc1596adb1e7417b8fa9b6741e168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_39b6e5f36aa15cd931f32dc8d264b6ed64f7a7c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_34668581cfdb0f064f5b4f77026364143199c571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0604ca30b99b569721a226025cd60131b6d4e846">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fed0a684131c140cfbcc32791ef51497de51ebae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.1_545b350498bac6af84e3f2aecea60c03c852a431\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.1_f26a4fa1e513bca98871649cf2703e331a026ed5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.1_7e6d1e027dfc222881043d0aaad0835e7c09fd2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.1_8ad285bef34a28ed1b6a3dab690074d2e975303b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_5e87803376df439f556011db1333cc0f55603221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\Andre Davis\AndroidStudioProjects\FireBaseTutorials\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.1_1a4785bb1fb447efca59fffa560663e5474b14c7\classes.dex" />
+    </item>
+
+</items>
